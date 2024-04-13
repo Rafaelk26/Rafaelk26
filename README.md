@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelk26&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelk26" /> </p>
 
-- 🔭 I’m currently working on [GalaxyThinks](https://github.com/Rafaelk26/GalaxyThinks)
+- 🔭 I’m currently working on [Adac-Church](https://github.com/Rafaelk26/Adac-Church)
 
 - 🌱 I’m currently learning **I'm learning about react with typescript and doing project with this languages.**
 
