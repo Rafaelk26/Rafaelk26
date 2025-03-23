@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I'm learning about react with typescript, next.js and doing project with this languages.**
 
-- 👯 I’m looking to collaborate on [Tarefas+](https://github.com/Rafaelk26/Tarefas-)
+- 👯 I’m looking to collaborate on [ADAC-Finance](https://github.com/Rafaelk26/ADAC-Finance)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafaelk26](https://github.com/Rafaelk26)
 
