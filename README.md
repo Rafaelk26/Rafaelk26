@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelk26&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelk26" /> </p>
 
-- 🔭 I’m currently working on [Portifólio](https://github.com/Rafaelk26/Portifolio)
+- 🔭 I’m currently working on [MyPoint](https://github.com/Rafaelk26/MyPoint)
 
 - 🌱 I’m currently learning **I'm learning about react with typescript, next.js and doing project with this languages.**
 
-- 👯 I’m looking to collaborate on [Portifólio](https://github.com/Rafaelk26/Portifolio)
+- 👯 I’m looking to collaborate on [MyPoint](https://github.com/Rafaelk26/MyPoint)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafaelk26](https://github.com/Rafaelk26)
 
-- 💬 Ask me about **react, nextjs, typescript, javascript, mysql...**
+- 💬 Ask me about **react, nextjs, react native, expo, typescript, javascript, mysql...**
 
 - 📫 How to reach me **rafaelk262002@gmail.com**
 
