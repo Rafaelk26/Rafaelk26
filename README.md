@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rafael Kikuchi
 
-### Front-End Developer | Full-Stack Developer | React & TypeScript | React Native
+### Front-End Developer | Full-Stack Developer | React Native
 
 I’m a Front-End Developer focused on building modern, responsive and scalable web and mobile applications.
 
