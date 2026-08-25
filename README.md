@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Kikuchi</h1>
-<h3 align="center">I'm developer front-end and full-stack programation, with projects for all see.</h3>
+<h3 align="center">I'm web developer and mobile developer front-end and full-stack programation, with projects for all see.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelk26&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelk26" /> </p>
 
