@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Kikuchi</h1>
-<h3 align="center">I'm developer front-end and a student programation, with projects for all see.</h3>
+<h3 align="center">I'm developer front-end and full-stack programation, with projects for all see.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelk26&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelk26" /> </p>
 
 - 🔭 I’m currently working on [MyPoint](https://github.com/Rafaelk26/MyPoint)
 
-- 🌱 I’m currently learning **I'm learning about react with typescript, next.js and doing project with this languages.**
+- 🌱 I’m currently learning **I'm developer web and mobile front-end and full-stack react, typescript, next.js, react native, and making projects with this stacks.**
 
 - 👯 I’m looking to collaborate on [MyPoint](https://github.com/Rafaelk26/MyPoint)
 
